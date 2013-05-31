@@ -1,0 +1,12 @@
+
+class HolaMundoService{
+	def cadena {
+
+		println "PARAMETRO" + cadena
+			cadena + " MUNDO"
+		println "FINAL " + cadena 
+		cadena
+
+	}
+
+}
